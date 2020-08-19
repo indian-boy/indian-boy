@@ -1,16 +1,26 @@
-### Hi there 👋
+# Erik Cunha A.K.A indian-boy
+ [![Linkedin Badge](https://img.shields.io/badge/-erik--cunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-cunha/)](https://www.linkedin.com/in/erik-cunha/) [![Medium Badge](https://img.shields.io/badge/-@indianboy-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@indianboy/)](https://medium.com/@indianboy/)
+---
 
-<!--
-**indian-boy/indian-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋,           
+I'm Erik Cunha, currently front-end developer at [![Zup Innovation Logo](https://i.imgur.com/yTuds8C.png)](https://www.zup.com.br/).  I am a tech enthusiast  and web lover 💖, i would love to be a front-end evangelist and see myself as a front-end software architect in my later career.
 
-Here are some ideas to get you started:
+## 🧐  About
+- 🏄‍ A guy who enjoys learning new things and different approaches;
+- 🗺️📍  Brazilian born and raised, currently living in Campinas - SP;
+- 🎸  I learned guitar by myself with a little help from Google; 
+- 💡  Very concerned about the developer experience and the state of art + freedom (Open Source and Linux FTW!); 
+- 👨‍💻  Martin Fowler, Linus Torvalds and Robert C. Martin are gods, thank for all contributions;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+Talk to me about:
+
+- Front-end development using **Angular 2+, Vue.js or React.js**;
+- Backend development using **ASP .NET Core, Node.js or NestJS**;
+- Architectural design for **Relational Database Management Systems** as well as for **NoSQL** database systems like **mongoDB/Firebase**;
+- Mobile application development using **Flutter and Ionic**;
+
+# Hello World!! 🤔
+- 📫  How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/erik-cunha/)
+- 💬 Ping me about #nestjs, #front-end, #micro-frontend, #angular or #react.js
+---
