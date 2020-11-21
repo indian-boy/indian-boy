@@ -1,5 +1,5 @@
 # Erik Cunha A.K.A indian-boy
- [![Linkedin Badge](https://img.shields.io/badge/-erik--cunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-henrique/)](https://www.linkedin.com/in/erik-cunha/) [![Medium Badge](https://img.shields.io/badge/-@indianboy-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@indianboy/)](https://medium.com/@indianboy/)
+ [![Linkedin Badge](https://img.shields.io/badge/-erik--henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-henrique/)](https://www.linkedin.com/in/erik-henrique/) [![Medium Badge](https://img.shields.io/badge/-@indianboy-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@indianboy/)](https://medium.com/@indianboy/)
 ---
 
 ## Hi there 👋,           
