@@ -21,6 +21,6 @@ Talk to me about:
 - Mobile application development using **Flutter and Ionic**;
 
 # Hello World!! 🤔
-- 📫  How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/erik-cunha/)
+- 📫  How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/erik-henrique/)
 - 💬 Ping me about #nestjs, #front-end, #micro-frontend, #angular or #react.js
 ---
