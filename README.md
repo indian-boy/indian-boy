@@ -16,7 +16,7 @@ I'm Erik Cunha, currently front-end developer at [![Zup Innovation Logo](https:/
 Talk to me about:
 
 - Front-end development using **Angular 2+, Vue.js or React.js**;
-- Backend development using **ASP .NET Core, Node.js or NestJS**;
+- Backend development using **Node.js or NestJS**;
 - Architectural design for **Relational Database Management Systems** as well as for **NoSQL** database systems like **mongoDB/Firebase**;
 - Mobile application development using **Flutter and Ionic**;
 
