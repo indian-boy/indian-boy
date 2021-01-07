@@ -3,7 +3,7 @@
 ---
 
 ## Hi there 👋,           
-I'm Erik Cunha, currently front-end developer at [![Zup Innovation Logo](https://i.imgur.com/yTuds8C.png)](https://www.zup.com.br/).  I am a tech enthusiast  and web lover 💖, i would love to be a front-end evangelist and see myself as a front-end software architect in my later career.
+I'm Erik Cunha, currently front-end developer at Daitan Group.  I am a tech enthusiast  and web lover 💖, i would love to be a front-end evangelist and see myself as a front-end software architect in my later career.
 
 ## 🧐  About
 - 🏄‍ A guy who enjoys learning new things and different approaches;
